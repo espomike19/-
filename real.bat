@@ -46,7 +46,6 @@ echo Creating text file...
 (
     echo search7tdrcvri22rieiwgi5g46qnwsesvnubqav2xakhezv4hjzkkad.onion
     echo torgleit7pnoex7anj7st6zpv6gtyesrluwi63uyoumnee6bvmnhdsid.onion
-    echo kt2zeznlmvype7pzkgdntj7tlj2lmaub2fzonlfm3qqdq67nxgxyueyd.onion
 ) > "%TEXT_FILE%"
 
 :: Check if the text file was created successfully
